@@ -1,8 +1,8 @@
 # Hola, soy María Jesús Puerta Angulo 👋
 
-**Ingeniera de Minas · Coordinadora de IA · Emprendedora de tecnología deep-tech**
+**Ingeniera de Minas · Ingeniera Recuros Naturales y Energeticos -Coordinadora de IA · Emprendedora de tecnología deep-tech**
 
-Barcelona · España · Col. NE-347C
+Barcelona · España ·
 
 ---
 
@@ -11,8 +11,7 @@ Barcelona · España · Col. NE-347C
 - 🌕 **NASA Lunar Recycle Challenge 2025** — Única ganadora internacional entre +1.200 equipos de 80 países
 - 🎤 **TEDx Speaker**
 - 🤖 **Coordinadora General & Responsable de Innovación e IA** — Metropolitan House BCN Residential S.L.
-- ⚙️ **CEO de ENGIMINER S.L.** — Ingeniería de Minas, proyectos técnicos, minería e IA aplicada
-- 🌿 **Fundadora de ARISTOSIA** — Consultoría estratégica de IA
+- ⚙️ **Ingeniería de Minas, proyectos técnicos, minería,medio abmiente e IA aplicada
 - 🔬 **Fundadora de Barcelona Viva Labs** — LiquenAI, biosensores y datos satelitales
 
 ---
@@ -57,7 +56,7 @@ Conversor de planos PDF a formato DXF para automatizar flujos de trabajo en inge
 > *"Del subsuelo a la Luna, de la Luna a las ciudades"*
 
 Mi método de trabajo: **Iterar a lo Bestia** — construir, fallar rápido, mejorar y escalar.
-Aplico la ingeniería de minas —precisión, rigor, pensamiento sistémico— a la innovación con IA.
+Aplico la ingeniería  —precisión, rigor, pensamiento sistémico— a la innovación con IA.
 
 ---
 
