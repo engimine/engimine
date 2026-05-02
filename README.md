@@ -10,7 +10,7 @@ Barcelona · España ·
 
 - 🌕 **NASA Lunar Recycle Challenge 2025** — Única ganadora internacional entre +1.200 equipos de 80 países
 - 🎤 **TEDx Speaker**
-- 🤖 **Coordinadora General & Responsable de Innovación e IA** — Metropolitan House BCN Residential S.L.
+- 🤖 **Coordinadora General & Responsable de Innovación e IA** — 
 - ⚙️ **Ingeniería de Minas, proyectos técnicos, minería,medio abmiente e IA aplicada
 - 🔬 **Fundadora de Barcelona Viva Labs** — LiquenAI, biosensores y datos satelitales
 
