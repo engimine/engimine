@@ -26,7 +26,7 @@ Barcelona · España ·
 ## 🚀 Proyectos actuales
 
 ### 🔴 ESPERANZA II — NASA Mars to Table Challenge 2026
-Sistema alimentario cerrado *soil-to-table* para una tripulación de 15 personas en Marte: regolito → sustrato → cultivo → fermentación → mesa. Candidatura internacional entregada (agosto 2026).
+Sistema alimentario cerrado *soil-to-table* para una tripulación de 15 personas en Marte: regolito → sustrato → cultivo → fermentación → mesa. Candidatura internacional entregada (agosto 2026) — el segundo desafío NASA de la única ganadora internacional del **NASA LunaRecycle Challenge 2025**.
 → [esperanzaresearch.com](https://esperanzaresearch.com)
 
 ### 🛰️ LIDARIS
