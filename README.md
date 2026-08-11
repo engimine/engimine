@@ -8,7 +8,7 @@ Barcelona · España ·
 
 ## 🏆 Logros destacados
 
-- 🌕 **NASA Lunar Recycle Challenge 2025** — Única ganadora internacional entre +1.200 equipos de 80 países
+- 🌕 **[NASA LunaRecycle Challenge 2025](https://www.nasa.gov/prizes-challenges-and-crowdsourcing/centennial-challenges/lunarecycle/)** — Única ganadora internacional (categoría **Digital Twin**) entre +1.200 proyectos de 80 países
 - 🎤 **TEDx Speaker**
 - 🤖 **Coordinadora General & Responsable de Innovación e IA** — 
 - ⚙️ **Ingeniería de Minas, proyectos técnicos, minería, medio ambiente e IA aplicada**
@@ -26,7 +26,7 @@ Barcelona · España ·
 ## 🚀 Proyectos actuales
 
 ### 🔴 ESPERANZA II — NASA Mars to Table Challenge 2026
-Sistema alimentario cerrado *soil-to-table* para una tripulación de 15 personas en Marte: regolito → sustrato → cultivo → fermentación → mesa. Candidatura internacional entregada (agosto 2026) — el segundo desafío NASA de la única ganadora internacional del **NASA LunaRecycle Challenge 2025**.
+Sistema alimentario cerrado *soil-to-table* para una tripulación de 15 personas en Marte: regolito → sustrato → cultivo → fermentación → mesa. Candidatura internacional entregada (agosto 2026) — el segundo desafío NASA de la única ganadora internacional (Digital Twin) del **NASA LunaRecycle Challenge 2025**.
 → [esperanzaresearch.com](https://esperanzaresearch.com)
 
 ### 🛰️ LIDARIS
