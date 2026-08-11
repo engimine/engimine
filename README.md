@@ -1,6 +1,8 @@
 # Hola, soy María Jesús Puerta Angulo 👋
 
-**Ingeniera de Minas · Ingeniera de Recursos Naturales y Energéticos -Coordinadora de IA · Emprendedora de tecnología deep-tech**
+**Ingeniera de Recursos Naturales y Energéticos · Máster en Ingeniería de Minas · Máster en Ingeniería y Gestión Ambiental · Máster en Arquitectura y Bioconstrucción**
+
+Mejoro procesos de ingeniería y arquitectura con IA · Sostenibilidad · BREEAM · Coordinadora de IA · Emprendedora deep-tech
 
 Barcelona · España ·
 
@@ -56,6 +58,9 @@ Conversor de planos PDF a formato DXF para automatizar flujos de trabajo en inge
 
 **Backend & Cloud**
 `Supabase` `FastAPI` `Docker` `Node.js` `MCP (Model Context Protocol)`
+
+**Sostenibilidad & Edificación**
+`BREEAM` `Bioconstrucción` `Gestión Ambiental` `Eficiencia Energética`
 
 **Documentación & BIM**
 `AutoCAD` `DXF/DWG` `Jupyter Notebook` `LaTeX`
