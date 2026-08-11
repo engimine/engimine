@@ -1,6 +1,6 @@
 # Hola, soy María Jesús Puerta Angulo 👋
 
-**Ingeniera de Minas · Ingeniera Recuros Naturales y Energeticos -Coordinadora de IA · Emprendedora de tecnología deep-tech**
+**Ingeniera de Minas · Ingeniera de Recursos Naturales y Energéticos -Coordinadora de IA · Emprendedora de tecnología deep-tech**
 
 Barcelona · España ·
 
@@ -11,12 +11,23 @@ Barcelona · España ·
 - 🌕 **NASA Lunar Recycle Challenge 2025** — Única ganadora internacional entre +1.200 equipos de 80 países
 - 🎤 **TEDx Speaker**
 - 🤖 **Coordinadora General & Responsable de Innovación e IA** — 
-- ⚙️ **Ingeniería de Minas, proyectos técnicos, minería,medio abmiente e IA aplicada
+- ⚙️ **Ingeniería de Minas, proyectos técnicos, minería, medio ambiente e IA aplicada**
 - 🔬 **Fundadora de Barcelona Viva Labs** — LiquenAI, biosensores y datos satelitales
 
 ---
 
+## 📄 Investigación
+
+- **Bayesian Multi-Modal Latent-State Inference for n=4 Deep-Space Crew Analogues** — pipeline metodológico reproducible para el NASA Artemis II Human Research Data Challenge, aplicado al archivo público de Inspiration4.
+  → [Preprint (Research Square, DOI)](https://doi.org/10.21203/rs.3.rs-10232328/v1) · [Código abierto](https://github.com/engimine/HRP_Artemis_II)
+
+---
+
 ## 🚀 Proyectos actuales
+
+### 🔴 ESPERANZA II — NASA Mars to Table Challenge 2026
+Sistema alimentario cerrado *soil-to-table* para una tripulación de 15 personas en Marte: regolito → sustrato → cultivo → fermentación → mesa. Candidatura internacional entregada (agosto 2026).
+→ [esperanzaresearch.com](https://esperanzaresearch.com)
 
 ### 🛰️ LIDARIS
 SaaS de detección de metano para gobiernos municipales mediante satélite (Sentinel-5P).
