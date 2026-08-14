@@ -8,7 +8,7 @@ La serie se publicara por capitulos.
 
 - [Capitulo 0 - Preparar el terreno: entender Sentinel-2 y dejar Python listo](./capitulo-00/README.md)
 - Capitulo 1 - Rasters y datos Sentinel-2 reales (proximamente)
-- Capitulo 2 - NDVI, NDWI y NDBI (proximamente)
+- [Capitulo 2 - Indices espectrales: NDVI, NDWI y NDBI](./capitulo-02/README.md)
 - Capitulo 3 - Dimension temporal (proximamente)
 - Capitulo 4 - Espacio verde per capita (proximamente)
 - Capitulo 5 - Clasificacion de usos del suelo (proximamente)
